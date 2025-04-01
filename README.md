@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi there, I'm Bruno Sanchez 👋
 <!--
 **bsanmur/bsanmur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💻 A backend developer passionate about building reliable and scalable applications.
+
+😄 Focused on writing clean, maintainable code and always excited to explore new technologies and best practices to continuously improve my skills!
+
+⭐ Experienced with JavaScript (Node.js), Express.js, MySQL, Firebase, and have worked with RESTful APIs, JWT Authentication, MQTT, and Docker.
+
+💡 Familiar with frontend development and interface design, applying user-centered design principles to ensure a seamless user experience, which is necessary for a holistic understanding of systems.
+
+🌱 Currently learning Python and FastAPI to expand backend development skills.
